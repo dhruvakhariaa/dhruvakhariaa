@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruvakhariaa
 - 👀 I’m interested in making video games and websites
-- 🌱 I’m currently learning front-end advance
+- 🌱 I’m currently learning advance JAVA
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Insta: @dhruvakharia
 
